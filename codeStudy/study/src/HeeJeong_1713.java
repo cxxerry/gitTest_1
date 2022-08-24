@@ -43,6 +43,7 @@ public class HeeJeong_1713 {
             }
                 recommend[candidateIdx]++;
         }
+
         Arrays.sort(student);
 
         for (int x : student){
