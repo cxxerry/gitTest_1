@@ -6,7 +6,6 @@ public class HeeJeong_1713 {
         BufferedReader br = new BufferedReader (new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-
         int total = 0;
         int now = 0;
         int candidateIdx = 0;         //후보가 들어갈 사진틀 위치
